@@ -1,1 +1,0 @@
-This is terraform code for architecture
